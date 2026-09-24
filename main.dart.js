@@ -36198,7 +36198,7 @@ this.b.ft()},
 $S:10}
 A.a3b.prototype={}
 A.BH.prototype={
-J(a){return new A.uU(B.xi,"\u30d0\u30c9\u30df\u30f3\u30c8\u30f3\u5931\u70b9\u5206\u6790",A.aeX(null,null,B.F7,!0),!1,null)}}
+J(a){return new A.uU(B.xi,"\u30d0\u30c9\u30df\u30f3\u30c8\u30f3\u5931\u70b9\u96c6\u7d04",A.aeX(null,null,B.F7,!0),!1,null)}}
 A.dS.prototype={
 H(){return"LossArea."+this.b}}
 A.iC.prototype={
@@ -36235,7 +36235,7 @@ o=l.length===0?m:n.ga2p()
 h=A.d([h,B.jk,B.NM,B.fx,new A.pu(s,r,new A.a5s(n),m,t._p),B.jk,B.NT,B.fx,new A.Hy(8,8,q,m),B.IU,new A.tL(!0,n.gUr(),m,m,m,p,B.G,m,!1,m,!0,m,new A.Jf(B.NQ,B.Ba,p,m,m),m),B.fx,new A.EQ(!0,o,m,m,m,m,m,m,!1,m,!0,m,new A.KF(B.NR,B.Bb,m,m,m),m),B.jk],j)
 l=l.length
 if(l!==0)B.b.K(h,A.d([B.NI,B.fx,new A.Ea(new A.a2r(new A.a5t(n),l,!0,!0,!0,m),m,B.am,!1,m,m,B.Fs,!0,m,m,l,B.bA,m,m,B.aw,B.az,m)],j))
-return new A.wk(new A.rF(B.NJ,i,!0,new A.Lm(m,m,1/0,56),m),A.aul(A.Co(h,B.cp,B.aZ,B.cx),B.l0),m)}}
+return new A.wk(new A.rF(B.NK,i,!0,new A.Lm(m,m,1/0,56),m),A.aul(A.Co(h,B.cp,B.aZ,B.cx),B.l0),m)}}
 A.a5c.prototype={
 $0(){var s=this.a
 s.f.push(new A.oU(s.d,s.e))},
@@ -36245,7 +36245,7 @@ $0(){this.a.f.pop()},
 $S:0}
 A.a5l.prototype={
 $1(a){var s=null
-return new A.nY(B.NL,B.NK,A.d([A.ak3(B.NO,s,s,new A.a5j(a),s,s),new A.tL(!1,new A.a5k(this.a,a),s,s,s,A.ahO(s,s,B.F8,s,s,s,s,s,s,B.j,s,s,s,s,s,s,s,s,s,s),s,s,!1,s,!0,s,B.NN,s)],t.E),s)},
+return new A.nY(B.NL,B.NJ,A.d([A.ak3(B.NO,s,s,new A.a5j(a),s,s),new A.tL(!1,new A.a5k(this.a,a),s,s,s,A.ahO(s,s,B.F8,s,s,s,s,s,s,B.j,s,s,s,s,s,s,s,s,s,s),s,s,!1,s,!0,s,B.NN,s)],t.E),s)},
 $S:299}
 A.a5j.prototype={
 $0(){A.my(this.a,!1).vc(null)
@@ -74054,8 +74054,8 @@ B.MB=new A.k(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.JO=new A.k(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.NH=new A.cL(B.Lw,B.Ku,B.Lx,B.LZ,B.Kb,B.Kj,B.KN,B.LU,B.KZ,B.Mk,B.JH,B.JZ,B.Mh,B.MB,B.JO)
 B.NI=new A.dG("\u3010\u8a18\u9332\u5c65\u6b74\uff08\u6700\u65b0\u9806\uff09\u3011",null,B.fC,null,null)
-B.NJ=new A.dG("\u30d0\u30c9\u30df\u30f3\u30c8\u30f3\u5931\u70b9\u5206\u6790",null,null,null,null)
-B.NK=new A.dG("\u96c6\u8a08\u3055\u308c\u305f\u30c7\u30fc\u30bf\u3092\u3059\u3079\u3066\u524a\u9664\u3057\u3066\u30ea\u30bb\u30c3\u30c8\u3057\u307e\u3059\u304b\uff1f",null,null,null,null)
+B.NJ=new A.dG("\u96c6\u8a08\u3055\u308c\u305f\u30c7\u30fc\u30bf\u3092\u3059\u3079\u3066\u524a\u9664\u3057\u3066\u30ea\u30bb\u30c3\u30c8\u3057\u307e\u3059\u304b\uff1f",null,null,null,null)
+B.NK=new A.dG("\u30d0\u30c9\u30df\u30f3\u30c8\u30f3\u5931\u70b9\u96c6\u7d04",null,null,null,null)
 B.NL=new A.dG("\u8a66\u5408\u30c7\u30fc\u30bf\u306e\u30ea\u30bb\u30c3\u30c8",null,null,null,null)
 B.ws=new A.k(!0,null,null,null,null,null,16,B.bf,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.NM=new A.dG("\u2460 \u6700\u5f8c\u306e\u5931\u70b9\u30a8\u30ea\u30a2",null,B.ws,null,null)
