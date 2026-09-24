@@ -11,7 +11,7 @@ class BadmintonTrackerApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'バドミントン失点分析',
+      title: 'バドミントン失点集約',
       theme: ThemeData(
         useMaterial3: true,
         colorSchemeSeed: Colors.indigo,
@@ -127,7 +127,7 @@ class _BadmintonTrackerScreenState extends State<BadmintonTrackerScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('バドミントン失点分析'),
+        title: const Text('バドミントン失点集約'),
         centerTitle: true,
         actions: [
           IconButton(
